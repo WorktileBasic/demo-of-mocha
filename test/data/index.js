@@ -1,0 +1,1 @@
+var db = require("../../server/data");describe("#Data Test", function () {    beforeEach(require("../database").beforeCreateData);    require("./teamTest")(db);});
