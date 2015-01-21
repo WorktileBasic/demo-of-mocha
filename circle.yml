@@ -1,0 +1,5 @@
+## Custom notifications
+notify:
+  webhooks:
+    # A list of hashes representing hooks. Only the url field is supported.
+    - url: http://requestb.in/wy4ra6wy
