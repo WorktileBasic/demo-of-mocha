@@ -4,7 +4,7 @@
     "description" : "welcome to CI_world",
     "main"        : "app.js",
     "scripts"     : {
-        "test": "NODE_ENV=test ./node_modules/mocha/bin/mocha test/serverTest.js"
+        "test": "./node_modules/mocha/bin/mocha test/serverTest.js"
     },
     "repository"  : {
         "type": "git",
