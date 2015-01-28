@@ -6,4 +6,4 @@ node_js:
   - "0.6"
 notifications:
     webhooks:
-      - http://requestb.in/wy4ra6wy
+      - http://requestb.in/18zqtjb1
