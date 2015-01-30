@@ -10,9 +10,6 @@
         "type": "git",
         "url" : "https://github.com/sunjingyun1/demo-of-mocha.git"
     },
-    "keywords"    : [
-        ""
-    ],
     "author"      : "sunjingyun",
     "license"     : "ISC",
     "dependencies": {
