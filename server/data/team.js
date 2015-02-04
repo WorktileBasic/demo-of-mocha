@@ -10,7 +10,8 @@ var Team = function () {
             desc  : desc,
             domain: domain,
             logo  : logo,
-            id    : "11111"
+            id    : "11111",
+            ddd   : ""
         });
     };
 
