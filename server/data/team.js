@@ -11,7 +11,6 @@ var Team = function () {
             domain: domain,
             logo  : logo,
             id    : "11111",
-            ddd   : ""
         });
     };
 
