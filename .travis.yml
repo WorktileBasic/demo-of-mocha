@@ -6,3 +6,4 @@ node_js:
   - "0.6"
 notifications:
     webhooks:
+      - https://hook.lesschat.com/travisci/f5fc1655bff143a2ae81a381c8ea834e
