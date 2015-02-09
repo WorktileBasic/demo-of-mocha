@@ -12,6 +12,8 @@ var Team = function () {
             logo  : logo,
             id    : "11111"
         });
+
+
     };
 
     Team.prototype.updateTeam = function (id, name, desc, domain, logo, callback) {
