@@ -8,12 +8,11 @@ var Team = function () {
         return callback(null, {
             name  : name,
             desc  : desc,
-            domain: "",
+            domain: domain,
             logo  : logo,
             id    : "11111"
         });
-
-
+        console.log(abc);
     };
 
     Team.prototype.updateTeam = function (id, name, desc, domain, logo, callback) {
