@@ -2,4 +2,4 @@
 notify:
   webhooks:
     # A list of hashes representing hooks. Only the url field is supported.
-    - url: https://hook.lesschat.com/circleci/d7fa4b8797614dad94e0af409bddd713
+    - url: https://hook.lesschat.com/circleci/da651d601f344fffabca1be1586572d2
