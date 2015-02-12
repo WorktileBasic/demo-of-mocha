@@ -5,6 +5,7 @@ var Team = function () {
     var self = this;
 
     Team.prototype.addTeam = function (name, desc, domain, logo, callback) {
+
         return callback(null, {
             name  : name,
             desc  : desc,
